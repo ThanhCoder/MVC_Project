@@ -1,0 +1,16 @@
+/*<style type="text/css">*/
+    div{
+        padding:20px;
+    }
+
+    #header{
+        background: blue;
+    }
+    #content{
+        background: red;
+    }
+
+    #footer{
+        background: green;
+    }
+/*    </style>*/
